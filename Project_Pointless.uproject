@@ -37,6 +37,19 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "CapsuleTraceRotation",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1abd5424c39d426c81068388a39a61c3"
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "WaterExtras",
+			"Enabled": true
 		}
 	]
 }
